@@ -6,6 +6,7 @@
 ### By Gabriel Rodriguez
 
 ### Contents
+______
 
 #### 1. Images
 ####  2. Project Section with links
@@ -15,6 +16,7 @@
 #### 4. Contact Section with links
 
 ### Technologies Used
+-----------
 
 #### *HTML
 #### *CSS
@@ -22,6 +24,7 @@
 #### *GitHub
 
 ### Setup Instructions
+_________
 
 #### Clone into your machine: `https://github.com/Mrgabes/Week-1.git`
 
@@ -30,6 +33,7 @@
 #### 3. Click here: https://mrgabes.github.io/Week-1/
 
 ### License:
+_______
 [MIT](info@mit.edu) (c) 2021 Gabriel Rodriguez
 
 
