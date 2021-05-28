@@ -1,11 +1,13 @@
  body {
    background-color: #f7f9f9;
  }
-.p-5text-centerbg-image, h1 {
-  font-family:Georgia, 'Times New Roman', Times, serif;
+.p-5text-centerbg-image, .mb-3 {
+  font-family:'Jost', 'Times New Roman', Times, serif;
   font-size: 70px;
   opacity: .9;
   padding-top: 10%;
+  margin-bottom: 3em;
+  text-shadow: 2px 2px ivory ;
  }
  .p-5text-centerbg-image, h4 {
    font-size: 40px;
@@ -48,5 +50,12 @@
 
   .col {
     border: solid black;
+    
+  }
+
+  .p-title {
+    position:relative;
+    top: 1em;
+    font-size: 1.2em;
   }
   
