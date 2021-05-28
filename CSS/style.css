@@ -61,4 +61,14 @@
     top: 1em;
     font-size: 1.2em;
   }
+* .flexbox-container { 
+    display:flex;
+    justify-content:space-evenly;
+    background-color: #dcb9a1;
+    background-size: cover;
+    border-radius: 30px;
+    padding: .2em;
+    }
+
+  
   
