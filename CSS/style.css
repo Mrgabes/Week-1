@@ -1,5 +1,5 @@
  body {
-   background-color: #cad2c5;
+ background-color: #cad2c5;
  }
 .p-5text-centerbg-image, .mb-3 {
   font-family:'Jost', 'Times New Roman', Times, serif;
@@ -13,7 +13,7 @@
  .p-5text-centerbg-image, h4 {
    font-size: 40px;
    opacity: .8;
-}
+  }
 
 #my-pic {
   border-radius: 70%;
@@ -47,13 +47,12 @@
    background-color: #adb5bd;
    margin-left: 26em;
   }
-  .container {;
+  .container {
     margin-bottom: 4em;
     background-color:  #99c1de;
   }
   .container, h2 {
     text-align: center;
- 
   }
 
   .p-title {
@@ -61,7 +60,8 @@
     top: 1em;
     font-size: 1.2em;
   }
-* .flexbox-container { 
+
+  .flexbox-container { 
     display:flex;
     justify-content:space-evenly;
     background-color: #dcb9a1;
@@ -72,4 +72,18 @@
     }
 
   
-  
+  .quote {
+    display: flex;
+    align-content: center; 
+    justify-content: center; 
+    border-radius: 250px;
+   width: 230px;
+   height: 230px;
+   float: right;
+   background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/color-zen-circle-peter-cutler.jpg);
+   background-size: cover;
+   padding-top: 2.2em;
+   color: #d9ed92;
+   background-image: rgba(255, 255, 255,.2); 
+  }
+
