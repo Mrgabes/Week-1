@@ -1,35 +1,35 @@
 # Gabriel Rodriguez Portfolio Page
 
 
-### This website is work in progress. In the future this page will be used as my portfolio to present for employment and personel growth.  
+####This website is work in progress. In the future this page will be used as my portfolio to present for employment and personel growth.  
 
 ### By Gabriel Rodriguez
 
-## Contents
+### Contents
 
-### 1. Images
-###  2. Project Section with links
+#### 1. Images
+####  2. Project Section with links
 
-### 3. About Me
+#### 3. About Me
 
-### 4. Contact Section with links
+#### 4. Contact Section with links
 
-## Technologies Used
+### Technologies Used
 
-### *HTML
-### *CSS
-### *VS Code
-### *GitHub
+#### *HTML
+#### *CSS
+#### *VS Code
+#### *GitHub
 
-## Setup Instructions
+### Setup Instructions
 
-### Clone into your machine: `https://github.com/Mrgabes/Week-1.git`
+#### Clone into your machine: `https://github.com/Mrgabes/Week-1.git`
 
-### 2. Use your code reader to display
+#### 2. Use your code reader to display
 
-### 3. Click here: https://mrgabes.github.io/Week-1/
+#### 3. Click here: https://mrgabes.github.io/Week-1/
 
-## License:
+### License:
 [MIT](info@mit.edu) (c) 2021 Gabriel Rodriguez
 
 
