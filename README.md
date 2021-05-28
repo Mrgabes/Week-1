@@ -36,6 +36,8 @@ ______
 
 #### *Missing jpeg images for Git-Pages
 #### *Please let me know if you find one. [Email](mainedomain@protonmail.com)
+
+--------
 ### License:
 
 [MIT](info@mit.edu) (c) 2021 Gabriel Rodriguez

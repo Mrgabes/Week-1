@@ -68,11 +68,11 @@
   .flexbox-container { 
     display:flex;
     justify-content:space-evenly;
-    background-color: #dcb9a1;
+    background-color: #cd9777;
     background-size: cover;
-    border-radius: 30px;
-    padding: .2em;
     margin-bottom: 4em;
+    float: center;
+    justify-content: center;
     }
 
   
