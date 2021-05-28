@@ -1,4 +1,6 @@
-
+ body {
+   background-color: #f4f1de;
+ }
 .p-5text-centerbg-image, h1 {
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-size: 70px;
@@ -13,6 +15,13 @@
 #my-pic {
   border-radius: 70%;
   width: 20%;
-  margin-top: 200px;
-  
- }
+  margin-top: 20px;
+  float: left;
+  }
+  p {
+    margin-top: 3em;
+  }
+  #info {
+    margin-right:25em;
+    margin-left: 1em;
+  }
