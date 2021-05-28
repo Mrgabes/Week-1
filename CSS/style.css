@@ -8,6 +8,7 @@
   padding-top: 10%;
   margin-bottom: 3em;
   text-shadow: 2px 2px ivory ;
+  display: flex;
  }
  .p-5text-centerbg-image, h4 {
    font-size: 40px;
@@ -20,6 +21,7 @@
   margin-top: 22px;
   float: left;
   }
+  
   p {
     margin-top: 1em;
   }
@@ -31,29 +33,27 @@
     margin-top: 1em;
   }
   #tech {
-    position:absolute;
-    margin-left: 2em;
+    display: flex;
+    margin: 1em auto;
     background-color: #a4c3b2;
     justify-content:space-around;
   
   }
   #bringit {
     position:relative;
+    display: flex;
    padding-bottom: em;
    margin-bottom: 8em;
    background-color: #adb5bd;
    margin-left: 26em;
   }
-
+  .container {;
+    margin-bottom: 4em;
+    background-color:  #99c1de;
+  }
   .container, h2 {
     text-align: center;
-
-  }
-
-  .col {
-    background-color: #99c1de;
-  
-    
+ 
   }
 
   .p-title {
@@ -68,7 +68,7 @@
     background-size: cover;
     border-radius: 30px;
     padding: .2em;
-    margin-bottom: 2em;
+    margin-bottom: 4em;
     }
 
   
