@@ -1,5 +1,5 @@
  body {
-   background-color: #f7f9f9;
+   background-color: #cad2c5;
  }
 .p-5text-centerbg-image, .mb-3 {
   font-family:'Jost', 'Times New Roman', Times, serif;
@@ -11,7 +11,7 @@
  }
  .p-5text-centerbg-image, h4 {
    font-size: 40px;
-   opacity: .9;
+   opacity: .8;
 }
 
 #my-pic {
@@ -68,6 +68,7 @@
     background-size: cover;
     border-radius: 30px;
     padding: .2em;
+    margin-bottom: 2em;
     }
 
   
