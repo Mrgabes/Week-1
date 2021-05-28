@@ -31,6 +31,11 @@ ______
 
 #### 3. Click here: https://mrgabes.github.io/Week-1/
 ______
+
+### Known Bugs
+
+#### *Missing jpeg images for Git-Pages
+#### *Please let me know if you find more![Email](mainedomain@protonmail.com)
 ### License:
 
 [MIT](info@mit.edu) (c) 2021 Gabriel Rodriguez
