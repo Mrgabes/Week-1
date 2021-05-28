@@ -15,13 +15,26 @@
 #my-pic {
   border-radius: 70%;
   width: 20%;
-  margin-top: 20px;
+  margin-top: 22px;
   float: left;
   }
   p {
-    margin-top: 3em;
+    margin-top: 1em;
   }
   #info {
     margin-right:25em;
     margin-left: 1em;
+  }
+  h2 {
+    margin-top: 1em;
+  }
+  #tech {
+    position:absolute;
+    padding-top: 3em;
+  
+  }
+  #bringit {
+    position:relative;
+   padding-left:23em;
+   padding-bottom: em;
   }
