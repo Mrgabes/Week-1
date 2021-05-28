@@ -32,15 +32,17 @@
   }
   #tech {
     position:absolute;
-    padding-top: 3em;
     margin-left: 2em;
+    background-color: #a4c3b2;
+    justify-content:space-around;
   
   }
   #bringit {
     position:relative;
-   padding-left:27em;
    padding-bottom: em;
    margin-bottom: 8em;
+   background-color: #adb5bd;
+   margin-left: 26em;
   }
 
   .container, h2 {
@@ -49,7 +51,8 @@
   }
 
   .col {
-    border: solid black;
+    background-color: #99c1de;
+  
     
   }
 
