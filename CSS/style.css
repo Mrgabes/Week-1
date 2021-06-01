@@ -1,5 +1,5 @@
   body {
-  background-color: #cad2c5;
+  background-color: #cad2c5 !important;
   }
 .p-5text-centerbg-image, .mb-3 {
   font-family:'Jost', 'Times New Roman', Times, serif;
@@ -10,9 +10,10 @@
   text-shadow: 2px 2px ivory ;
   display: flex;
   }
+
   .p-5text-centerbg-image, h4 {
-  font-size: 40px;
-  opacity: .8;
+    font-size: 40px;
+    opacity: .8;
   }
 
 #my-pic {
@@ -29,7 +30,7 @@
     margin-right:25em;
     margin-left: 1em;
     margin-top: 1em;
-    background-color: #a2a392;
+    background-color: #a2a392 !important;
     padding-bottom: 1em;
 
   }
@@ -39,21 +40,21 @@
   #tech {
     display: flex;
     margin: 1em auto;
-    background-color: #a4c3b2;
+    background-color: #a4c3b2 !important;
     justify-content:space-around;
   
   }
   #bringit {
     position:relative;
-    display: flex;
-    margin-bottom: 8em;
-    background-color: #adb5bd;
-    margin-left: 26em;
     padding-bottom: em;
+    margin-bottom: 8em;
+    background-color: #adb5bd !important;
+    margin-left: 26em;
+    display: flex;
   }
   .container {
     margin-bottom: 4em;
-    background-color:  #99c1de;
+    background-color:  #99c1de !important;
   }
   .container, h2 {
     text-align: center;
@@ -68,7 +69,7 @@
   .flexbox-container { 
     display:flex;
     justify-content:space-evenly;
-    background-color: #cd9777;
+    background-color: #cd9777 !important;
     background-size: cover;
     margin-bottom: 4em;
     float: center;
@@ -83,11 +84,10 @@
     border-radius: 250px;
     height: 230px;
     float: right;
-    background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/color-zen-circle-peter-cutler.jpg);
+    background-image: url("/images/circle.jpeg");
     background-size: cover;
     padding-top: 2.2em;
-    color: #fc9f5b;
-    background-image: rgba(255, 255, 255,.2); 
+    color: #fc9f5b !important;
     width: 230px;
   }
 
