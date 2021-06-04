@@ -23,7 +23,7 @@ ______
 ### Setup Instructions
 
 
-#### Clone into your machine: `https://github.com/Mrgabes/Week-1.git`
+#### 1. Clone the  project to your machine: `https://github.com/Mrgabes/Week-1.git`
 
 #### 2. Use your code reader to display using its preview feature
 
@@ -42,11 +42,9 @@ ______
 Rodriguez
 
 -------
+### Contact Me
 
-Contact Me
-
-[Email](mainedomain@protonmail.com)
-[Phone](2065555555)
+[Email](mainedomain@protonmail.com) &nbsp;  &nbsp; [Phone](2065555555)
 
 
 
