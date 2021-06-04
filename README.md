@@ -45,7 +45,7 @@ ______
 --------
 ### Contact 
 
-[Email](mainedomain@protonmail.com) 
+[Email](mainedomain@protonmail.com) &nbsp;&nbsp; [Phone](555555555)
 
 
 
